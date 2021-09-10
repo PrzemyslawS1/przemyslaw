@@ -44,7 +44,7 @@
 
 <p> <font color="yellow" size="3" face="Arial"> :C duży smutek </font> </p> <br>
 
-<p> <font color="green" size="4" face="Arial"> ;( płacz </font> </p> <br>
+<p> <font color="geen" size="4" face="Arial"> ;( </font> </p> <br>
 
 <p> <font color="gray" size="5" face="Arial"> :D uśmiech </font> </p> <br>
 
