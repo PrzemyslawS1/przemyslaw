@@ -4,12 +4,12 @@
                <head>
                       <meta charset="utf-8">
                       <title>  </title>
-           <p align="left">  <h1> Stencel </h1><br>
-             <p align="left"> <h2> Stencel </h2><br>
-             <p align="left"> <h3> Stencel </h3><br>
-             <p align="left"> <h4> Stencel </h4><br>
-             <p align="left"> <h5> Stencel </h5><br>
-             <p align="left"> <h6> Stencel </h6><br>
+           <h1> Stencel <h1>
+            <h2> Stencel <h2>
+             <h3> Stencel <h3>
+             <h4> Stencel <h4>
+              <h5> Stencel <h5>
+              <h6> Stencel <h6> 
                </head>
                 <body>
            <meta charset="utf-8">
