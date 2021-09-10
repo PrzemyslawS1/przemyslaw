@@ -46,14 +46,12 @@
 
 <p align="middle"> <font color="green" size="4" face="Arial" ;( płacz </font> </p> <br>
 
-<p align="middle"> <font color="gray" size="5" face=„Arial”> :D uśmiech </font> </p> 
+<p align="middle"> <font color="gray" size="5" face=„Arial”> :D uśmiech </font> </p> <br>
 
 <p align="middle"> <font color="pink" size="6" face=„Arial”> :P język </font> </p> <br>
-
 </body>
 
-<body
-           
+<body        
  <p align="right"> <font color="red" size="3" face="Arial"> <u> Adres: <u>80-505 Gdańsk młyńska 43/2 </u> </font> </p> <br>
      
  <p align="right"> <font color="red" size="5" face="Arial"> Ulubiony Aktor: Will Smith </font> </p> <br>
