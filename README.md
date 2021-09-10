@@ -4,14 +4,13 @@
                <head>
                       <meta charset="utf-8">
              <title>  </title>
-      </head>
-          <body>
           <h1> Stencel </h1><br>
             <h2> Stencel </h2><br>
              <h3> Stencel </h3><br>
              <h4> Stencel </h4><br>
               <h5> Stencel </h5><br>
               <h6> Stencel </h6><br>
+                </head>
          <font color="red" size="7" face="Arial"> Przemysław </font> </p> <br>
          <font color="red" size="6" face="Arial"> Przemysław </font> </p> <br>
          <font color="red" size="5" face="Arial"> Przemysław </font> </p> <br>
