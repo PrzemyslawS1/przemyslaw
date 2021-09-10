@@ -6,7 +6,7 @@
              <title>  </title>
       </head>
           <body>
-          <h1> "Stencel" <h1><br>
+          <h1> Stencel <h1><br>
             <h2> Stencel <h2><br>
              <h3> Stencel <h3><br>
              <h4> Stencel <h4><br>
