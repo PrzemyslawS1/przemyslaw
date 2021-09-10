@@ -23,7 +23,7 @@
 </head>
                
 <body>
-        
+       
 <p> <font color="red" size="7" face="Arial"> Przemysław </font> </p> <br>
         
 <p> <font color="red" size="6" face="Arial"> Przemysław </font> </p> <br>
@@ -46,9 +46,10 @@
 
 <p align="middle"> <font color="green" size="4" face="Arial" ;( płacz </font> </p> <br>
 
-<p align="middle"> <font color="gray" size="5" face=„Arial”> :D uśmiech </font> </p> <br>
+<p align="middle"> <font color="gray" size="5" face="Arial"> :D uśmiech </font> </p> <br>
 
-<p align="middle"> <font color="pink" size="6" face=„Arial”> :P język </font> </p> <br>
+<p align="middle"> <font color="pink" size="6" face="Arial"> :P język </font> </p> <br>
+
 </body>
 
 <body        
