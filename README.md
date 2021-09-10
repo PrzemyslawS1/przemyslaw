@@ -31,7 +31,7 @@
       <p align="right"> <font color=„red” size=„5” face=„Arial”> Ulubiony Aktor: Will Smith </font> </p> <br>
       <p align="right"> <font color=„red” size=„4” face=„Arial”> Ulubiony zespół muzyczny: Dżem </font> </p> <br>
       <p align="right"> <font color=„red” size=„3” face=„Arial”> 21 stycznia 2006 </font> </p> <br>
-      <p align="left"> <font color=„red” size=„3” face=„Arial”> H2SO4  </font> </p> <br>x*x=x2
+      <p align="left"> <font color=„red” size=„3” face=„Arial”> H2SO4  </font> </p> <br>
              <p align="left"> <font color=„red” size=„3” face=„Arial”> x*x=x2 </font> </p> <br>
             </body>
       </html>
