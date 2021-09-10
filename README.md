@@ -38,28 +38,28 @@
       
   <p> <font color="red" size="1" face="Arial"> Przemysław </font> </p> <br>
 
-<p align="middle"> <font color="red" size="1" face="Arial" :) szczęście </font> </p> <br>
+<p> <font color="red" size="1" face="Arial"> :) szczęście </font> </p> <br>
 
-<p align="middle"> <font color="blue" size="2" face="Arial" :( smutek </font> </p> <br>
+<p> <font color="blue" size="2" face="Arial"> :( smutek </font> </p> <br>
 
-<p align="middle"> <font color="yellow" size="3" face="Arial" :C duży smutek </font> </p> <br>
+<p> <font color="yellow" size="3" face="Arial"> :C duży smutek </font> </p> <br>
 
-<p align="middle"> <font color="green" size="4" face="Arial" ;( płacz </font> </p> <br>
+<p> <font color="green" size="4" face="Arial"> ;( płacz </font> </p> <br>
 
-<p align="middle"> <font color="gray" size="5" face="Arial"> :D uśmiech </font> </p> <br>
+<p> <font color="gray" size="5" face="Arial"> :D uśmiech </font> </p> <br>
 
-<p align="middle"> <font color="pink" size="6" face="Arial"> :P język </font> </p> <br>
+<p> <font color="pink" size="6" face="Arial"> :P język </font> </p> <br>
 
 </body>
 
 <body        
- <p align="right"> <font color="red" size="3" face="Arial"> <u> Adres: <u>80-505 Gdańsk młyńska 43/2 </u> </font> </p> <br>
+ <p align="right"> <font color="black" size="3" face="Arial"> <u> Adres: <u>80-505 Gdańsk młyńska 43/2 </u> </font> </p> <br>
      
- <p align="right"> <font color="red" size="5" face="Arial"> Ulubiony Aktor: Will Smith </font> </p> <br>
+ <p align="right"> <font color="gray" size="5" face="Arial"> Ulubiony Aktor: Will Smith </font> </p> <br>
       
 <p align="right"> <font color="red" size="4" face="Arial"> Ulubiony zespół muzyczny: Dżem </font> </p> <br>
      
- <p align="right"> <font color="red" size="3" face="Arial"> 21 stycznia 2006 </font> </p> <br>
+ <p align="right"> <font color="blue" size="3" face="Arial"> 21 stycznia 2006 </font> </p> <br>
       
 <p align="left"> <font color="red" size="3" face="Arial"> H2SO4  </font> </p> <br>
              
