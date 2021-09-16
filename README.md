@@ -64,7 +64,29 @@
 <p align="left"> <font color="red" size="3" face="Arial"> H2SO4  </font> </p> <br>
              
 <p align="left"> <font color="red" size="3" face="Arial"> x*x=x2 </font> </p> <br>
-           
+ 
+<FIELDSET>
+<h1> Przyszły informatyk </h1>
+<LEGEND> Żart o informatyku </LEGEND>
+Dzieci piszą wypracowanie o tym, jak wyobrażają sobie pracę informatyka. <br>
+Nie pisze tylko Karol. <br>
+- Dlaczego nie piszesz? - pyta go nauczycielka. <br>
+- Czekam, aż mi się otworzy edytor tekstu <br>
+</FIELDSET> 
+<FIELDSET>
+<h1> Dentysta sadysta </h1>
+<LEGEND> Żart o lekarzu </LEGEND>
+- Panie doktorze czy ma pan coś na moje zęby? <br>
+- Tak, woreczek... <br>
+</FIELDSET>
+<FIELDSET>
+<h1> Baba zadrwiła ze sprzedawcy </h1>
+<LEGEND> Żart o babie </LEGEND>
+Przychodzi baba do sprzedawcy odkurzaczy, stawia odkurzacz na podłodze, podłącza do prądu i mówi: <br>
+- Zjem każdy paproch którego nie wciągnie to supernowoczesne urządzenie. <br>
+Na to baba: <br>
+- Życzę panu smacznego. Od dwóch dni nie ma prądu. <br>
+</FIELDSET>
  </body>
       
 </html>
