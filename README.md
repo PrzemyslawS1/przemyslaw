@@ -162,7 +162,7 @@ Na to baba: <br>
                                                                                                 
                                                                                                  <h2> Przeglądarki </h2>
                                                                                                 
-                                                                                                 <OL TYPE=I START=2>
+                                                                                                 <OL TYPE=3 START=2>
                                                                                                       
                                                                                                        <LI> Google Chrome
                                                                                                             
