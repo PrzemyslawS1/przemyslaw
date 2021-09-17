@@ -138,7 +138,7 @@ Na to baba: <br>
                                                             
                                                             <h2> Systemy liczbowe </h2>
                                                             
-                                                             <OL TYPE=1 START=2>
+                                                             <OL TYPE=1>
                                                                   
                                                                    <LI> Dziesiętny
                                                                          
@@ -150,7 +150,7 @@ Na to baba: <br>
                                                                                
                                                                                <h2> Firmy produkujące podzespoły </h2>
                                                                                
-                                                                               <OL TYPE=a START=b>
+                                                                               <OL TYPE=a>
                                                                                      
                                                                                      <LI> Intel
                                                                                           
@@ -162,7 +162,7 @@ Na to baba: <br>
                                                                                                 
                                                                                                  <h2> Przeglądarki </h2>
                                                                                                 
-                                                                                                 <OL TYPE=I START=II>
+                                                                                                 <OL TYPE=I>
                                                                                                       
                                                                                                        <LI> Google Chrome
                                                                                                             
