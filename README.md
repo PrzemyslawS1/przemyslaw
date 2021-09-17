@@ -146,7 +146,7 @@ Na to baba: <br>
                                                                                
                                                                                <LI> Szesnastkowy 
                                                                                            
-                                                                                     </OL>
+                                                                                    
                                                                                
                                                                                <h2> Firmy produkujące podzespoły </h2>
                                                                                
@@ -158,7 +158,7 @@ Na to baba: <br>
                                                                                                 
                                                                                                  <LI> Nvidia
                                                                                                       
-                                                                                                       </OL>
+                                                                                                       
                                                                                                 
                                                                                                  <h2> Przeglądarki </h2>
                                                                                                 
@@ -170,7 +170,7 @@ Na to baba: <br>
                                                                                                                   
                                                                                                                    <LI> Internet Explorer
                                                                                                                          
-                                                                                                                         </OL>
+                                                                                                                         
        
 
        </body> 
