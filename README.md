@@ -133,6 +133,44 @@ Na to baba: <br>
                                                              <LI> Słuchawki
                                                                    
                                                                    </UL>
+                                                            
+                                                             <h1> Poniżej są trzy numerowania z różnymi znakami numerowania </h1>
+                                                            
+                                                            <h2> Systemy liczbowe </h2>
+                                                            
+                                                             <OL TYPE=1 START=2>
+                                                                  
+                                                                   <LI> Dziesiętny
+                                                                         
+                                                                         <LI> binarny
+                                                                               
+                                                                               <LI> Szesnastkowy 
+                                                                                           
+                                                                                     </OL>
+                                                                               
+                                                                               <h2> Firmy produkujące podzespoły </h2>
+                                                                               
+                                                                               <OL TYPE=a START=b>
+                                                                                     
+                                                                                     <LI> Intel
+                                                                                          
+                                                                                           <LI> AMD
+                                                                                                
+                                                                                                 <LI> Nvidia
+                                                                                                      
+                                                                                                       </OL>
+                                                                                                
+                                                                                                 <h2> Przeglądarki </h2>
+                                                                                                
+                                                                                                 <OL TYPE=I START=II>
+                                                                                                      
+                                                                                                       <LI> Google Chrome
+                                                                                                            
+                                                                                                             <LI> Firefox
+                                                                                                                  
+                                                                                                                   <LI> Internet Explorer
+                                                                                                                         
+                                                                                                                         </OL>
        
 
        </body> 
