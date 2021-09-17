@@ -101,22 +101,38 @@ Na to baba: <br>
        <h1> Poniżej są trzy wyliczenia z różnymi znakami wyliczenia </h1>
        <h2> Najważniejsze elementy komputera </h2>
        <UL>
-            <LI> Płyta główna
-                  <LI> Procesor
-                        <LI> Karta Graficzna
-                              </UL>
-                        <h2> Systemy komputerowe </h2>
-                        <UL TYPE=circle>
-                              <LI> Windows
-                                    <LI> Linux
+            
+             <LI> Płyta główna
+                  
+                   <LI> Procesor
+                       
+                         <LI> Karta Graficzna
+                             
+                               </UL>
+                       
+                         <h2> Systemy komputerowe </h2>
+                       
+                         <UL TYPE=circle>
+                              
+                               <LI> Windows
+                                    
+                                     <LI> Linux
+                                         
                                           <LI> MacOs
+                                              
                                                 </UL> 
-                                                <h2> Akcesoria komputerowe </h2>
-                                                <UL TYPE=square>
-                                                      <LI> Myszka
-                                                            <LI> Klawiatura
-                                                               <LI> Słuchawki
-                                                                     </UL>
+                                               
+                                          <h2> Akcesoria komputerowe </h2>
+                                               
+                                           <UL TYPE=square>
+                                                    
+                                                 <LI> Myszka
+                                                           
+                                                       <LI> Klawiatura
+                                                              
+                                                             <LI> Słuchawki
+                                                                   
+                                                                   </UL>
        
 
        </body> 
