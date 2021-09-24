@@ -170,7 +170,49 @@ Na to baba: <br>
                                                                                                                   
                                                                                                                    <LI> Internet Explorer
                                                                                                                          
-                                                                                                                         
+                                                                                                                        <OL> 
+
+                                                                                                                              <LI> Urządzenia wewnętrzne komputera
+
+      <OL type=A> 
+
+      <LI> Płyta główna
+
+      <LI> Mikroprocesor
+
+      <LI> Karty rozszerzeń
+
+      </OL>
+
+      <LI> Urządzenia zewnętrzne komputera
+
+      <OL type=A> 
+
+      <LI> Monitor
+
+      <OL type=a>
+
+      <LI> z lampą kineskopową
+
+      <LI> LCD
+
+      </OL>
+
+      <LI> drukarka
+
+      <OL type=a>
+
+      <LI> igłowa
+
+      <LI> laserowa
+
+      <LI> atramentowe
+
+      </OL>
+
+      </OL>
+
+      </OL>
        
 
        </body> 
