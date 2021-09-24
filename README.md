@@ -52,7 +52,7 @@
 
 </body>
 
-<body bgcolor="gray">       
+<body>       
  <p align="right"> <font color="black" size="3" face="Arial"> <u> Adres: <u>80-505 Gdańsk młyńska 43/2 </u> </font> </p> <br>
      
  <p align="right"> <font color="gray" size="5" face="Arial"> Ulubiony Aktor: Will Smith </font> </p> <br>
