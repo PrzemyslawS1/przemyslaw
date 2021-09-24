@@ -172,7 +172,7 @@ Na to baba: <br>
                                                                                                                          
                                                                                                                         <OL> 
 
-                                                                                                                              <LI> <h1> Urządzenia Wewnętrzne komputera <h1>
+                                                                                                                              <LI> <h1> Urządzenia Wewnętrzne komputera </h1>
 
       <OL type=A> 
 
