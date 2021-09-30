@@ -15,7 +15,9 @@
 <A NAME="poczatek tekstu"></A>
 <A HREF="#srodek tekstu"> kliknij aby skoczyć do środka tekstu</A> <br>
 <A HREF="#koniec tekstu"> kliknij aby skoczyć do końca tekstu</A> <br>
-       <A HREF="plik_Stencel.html"> tutaj jest link do pliku </A>
+       <A HREF="plik_Stencel.html"> tutaj jest link do pliku </A> <br>
+       <A HREF="poczta_Stencel.html"> tutaj jest link do poczty </A> <br>
+       <A HREF="tabela_Stencel.html"> tutaj jest link do tabeli </A> <br>
 <title> fajna stronka </title>
 
  
@@ -134,6 +136,9 @@ szczęście </font> </p> <br>
 <A NAME="srodek tekstu"></A>
 <A HREF="#poczatek tekstu"> kliknij aby skoczyć do początku tekstu</A> <br>
 <A HREF="#koniec tekstu"> kliknij aby skoczyć do końca tekstu</A> <br> 
+      <A HREF="plik_Stencel.html"> tutaj jest link do pliku </A> <br>
+      <A HREF="poczta_Stencel.html"> tutaj jest link do poczty </A> <br>
+      <A HREF="tabela_Stencel.html"> tutaj jest link do tabeli </A> <br>
 
 <FIELDSET>
 
@@ -372,6 +377,8 @@ Pacjent na fotelu:<br>
 <br>    
 <A HREF="#poczatek tekstu"> kliknij aby skoczyć do początku tekstu</A> <br>
 <A HREF="#srodek tekstu"> kliknij aby skoczyć do środka tekstu</A> <br>
+      <A HREF="plik_Stencel.html"> tutaj jest link do pliku </A> <br>
+      <A HREF="tabela_Stencel.html"> tutaj jest link do tabeli </A> <br>
 <A NAME="koniec tekstu"></A>  
 <br>
       </body> 
