@@ -362,10 +362,11 @@ Pacjent na fotelu:<br>
 </OL>
        
 
-       
+<br>    
 <A HREF="#poczatek tekstu"> kliknij aby skoczyć do początku tekstu</A> <br>
 <A HREF="#srodek tekstu"> kliknij aby skoczyć do środka tekstu</A> <br>
 <A NAME="koniec tekstu"></A>  
-</body> 
+<br>
+      </body> 
 
 </html>
