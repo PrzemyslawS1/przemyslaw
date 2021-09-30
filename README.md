@@ -150,8 +150,10 @@ szczęście </font> </p> <br>
 
       
 <IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 1 Stencel”>
-<IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 2 Stencel”>
- </FIELDSET> 
+
+      <IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 2 Stencel”>
+ 
+      </FIELDSET> 
 
       
 
@@ -171,8 +173,9 @@ Pacjent na fotelu:<br>
 
   <br>     
 
-<IMG SRC="Giphy.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 3 Stencel”>
-<IMG SRC="Giphy.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 4 Stencel”>       
+       <IMG SRC="Giphy.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 3 Stencel”>
+
+      <IMG SRC="Giphy.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 4 Stencel”>       
 
 </FIELDSET>
 
@@ -188,9 +191,12 @@ Pacjent na fotelu:<br>
 
 
 Żona prosiła mnie, żebym jej przyniósł szminkę. Przez pomyłkę podałem jej klej w sztyfcie. Chyba ciągle jest obrażona, bo nadal się nie odzywa...<br>      
-<IMG SRC="asian.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 5 Stencel”>
-<IMG SRC="asian.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 6 Stencel”>
-</FIELDSET>
+
+      <IMG SRC="asian.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 5 Stencel”>
+
+            <IMG SRC="asian.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 6 Stencel”>
+
+                  </FIELDSET>
        
 
 <h1> Poniżej są trzy wyliczenia z różnymi znakami wyliczenia </h1>
