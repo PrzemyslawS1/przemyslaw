@@ -15,6 +15,7 @@
 <A NAME="poczatek tekstu"></A>
 <A HREF="#srodek tekstu"> kliknij aby skoczyć do środka tekstu</A> <br>
 <A HREF="#koniec tekstu"> kliknij aby skoczyć do końca tekstu</A> <br>
+       <A HREF="plik_Stencel.html"> tutaj jest link do pliku </A>
 <title> fajna stronka </title>
 
  
