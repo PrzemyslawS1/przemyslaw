@@ -1,142 +1,270 @@
 <!DOCTYPE html>
       
+
+
 <html lang="pl-PL">
      
+
+
  <html>
               
+
+
  <head>
-                      
+                     
+<A NAME="poczatek tekstu"></A>
+<A HREF="#srodek tekstu"> kliknij aby skoczyć do środka tekstu</A> <br>
+<A HREF="#koniec tekstu"> kliknij aby skoczyć do końca tekstu</A> <br>
+<title> fajna stronka </title>
+
+ 
 <meta charset="utf-8">
-            
-<h1> Stencel </h1> <br>
-            
+           
+<h1> Stencel </h1> <br>           
+
+
 <h2> Stencel </h2> <br>
-             
+            
+
+ 
 <h3> Stencel </h3> <br>
             
+
+
  <h4> Stencel </h4> <br>
-              
+             
+
+ 
 <h5> Stencel </h5> <br>
              
- <h6> Stencel </h6> <br>
-                
-</head>
+
+ 
+<h6> Stencel </h6> <br>
                
-<body>
-       
+ 
+
+</head>
+              
+ 
+
+<body bgcolor="gray">
+      
+
+ 
 <p> <font color="red" size="7" face="Arial"> Przemysław </font> </p> <br>
-        
+       
+
+ 
 <p> <font color="red" size="6" face="Arial"> Przemysław </font> </p> <br>
        
- <p> <font color="red" size="5" face="Arial"> Przemysław </font> </p> <br>
+
+ 
+<p> <font color="red" size="5" face="Arial"> Przemysław </font> </p> <br>
         
+
+
 <p> <font color="red" size="4" face="Arial"> Przemysław </font> </p> <br>
-        
+       
+ 
+
 <p> <font color="red" size="3" face="Arial"> Przemysław </font> </p> <br>
       
- <p> <font color="red" size="2" face="Arial"> Przemysław </font> </p> <br>
-      
-  <p> <font color="red" size="1" face="Arial"> Przemysław </font> </p> <br>
 
-<p> <font color="red" size="1" face="Arial"> :) szczęście </font> </p> <br>
+ 
+<p> <font color="red" size="2" face="Arial"> Przemysław </font> </p> <br>
+      
+ 
+ 
+<p> <font color="red" size="1" face="Arial"> Przemysław </font> </p> <br>
+
+<p> <font color="red" size="1" face="Arial"> :) 
+szczęście </font> </p> <br>
+
+
 
 <p> <font color="blue" size="2" face="Arial"> :( smutek </font> </p> <br>
 
+
+
 <p> <font color="yellow" size="3" face="Arial"> :C duży smutek </font> </p> <br>
+
+
 
 <p> <font color="geen" size="4" face="Arial"> ;( </font> </p> <br>
 
+
+
 <p> <font color="gray" size="5" face="Arial"> :D uśmiech </font> </p> <br>
+
+
 
 <p> <font color="pink" size="6" face="Arial"> :P język </font> </p> <br>
 
+
+
 </body>
 
+
+
 <body>       
+
+
  <p align="right"> <font color="black" size="3" face="Arial"> <u> Adres: <u>80-505 Gdańsk młyńska 43/2 </u> </font> </p> <br>
      
+
  <p align="right"> <font color="gray" size="5" face="Arial"> Ulubiony Aktor: Will Smith </font> </p> <br>
-      
+     
+
+ 
 <p align="right"> <font color="red" size="4" face="Arial"> Ulubiony zespół muzyczny: Dżem </font> </p> <br>
      
- <p align="right"> <font color="blue" size="3" face="Arial"> 21 stycznia 2006 </font> </p> <br>
-      
-<p align="left"> <font color="red" size="3" face="Arial"> H2SO4  </font> </p> <br>
-             
-<p align="left"> <font color="red" size="3" face="Arial"> x*x=x2 </font> </p> <br>
+
  
+<p align="right"> <font color="blue" size="3" face="Arial"> 21 stycznia 2006 </font> </p> <br>
+    
+ 
+ 
+<p align="left"> <font color="red" size="3" face="Arial"> H2SO4  </font> </p> <br>
+           
+ 
+ 
+<p align="left"> <font color="red" size="3" face="Arial"> x*x=x2 </font> </p> <br>
+
+<A NAME="srodek tekstu"></A>
+<A HREF="#poczatek tekstu"> kliknij aby skoczyć do początku tekstu</A> <br>
+<A HREF="#koniec tekstu"> kliknij aby skoczyć do końca tekstu</A> <br> 
+
 <FIELDSET>
 
-      <h1> Przyszły informatyk </h1>
+     
+<h1> początkujący informatyk </h1>
 
-      <LEGEND> Żart o informatyku </LEGEND>
-Dzieci piszą wypracowanie o tym, jak wyobrażają sobie pracę informatyka. <br>
-Nie pisze tylko Karol. <br>
-- Dlaczego nie piszesz? - pyta go nauczycielka. <br>
-- Czekam, aż mi się otworzy edytor tekstu <br>
+      
 
-       </FIELDSET> 
+<LEGEND> Żart o informatyku </LEGEND>
 
-       <FIELDSET>
 
-      <h1> Dentysta sadysta </h1>
+- Czym różni się doświadczony informatyk od początkującego? <br>
 
-     <LEGEND> Żart o lekarzu </LEGEND>
-- Panie doktorze czy ma pan coś na moje zęby? <br>
-- Tak, woreczek... <br>
+- Początkujący uważa, że 1KB to 1000B, a doświadczony jest pewnien, że 1km to 1024m.<br>
 
-       </FIELDSET>
+      
+<IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 1 Stencel”>
+<IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 2 Stencel”>
+ </FIELDSET> 
 
-       <FIELDSET>
+      
 
-      <h1> Baba zadrwiła ze sprzedawcy </h1>
+ <FIELDSET>
 
-      <LEGEND> Żart o babie </LEGEND>
-Przychodzi baba do sprzedawcy odkurzaczy, stawia odkurzacz na podłodze, podłącza do prądu i mówi: <br>
-- Zjem każdy paproch którego nie wciągnie to supernowoczesne urządzenie. <br>
-Na to baba: <br>
-- Życzę panu smacznego. Od dwóch dni nie ma prądu. <br>
+      
 
-       </FIELDSET>
-       <h1> Poniżej są trzy wyliczenia z różnymi znakami wyliczenia </h1>
-       <h2> Najważniejsze elementy komputera </h2>
-       <UL>
+<h1> Oszczędny klient </h1>
+
+     
+
+<LEGEND> Żart o dentyście </LEGEND>
+
+
+Pacjent na fotelu:<br>
+- Panie doktorze, niech mi pan tylko obluzuje ten ząb, a już w domu żona wyrwie mi go za darmo.
+
+  <br>     
+
+<IMG SRC="Giphy.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 3 Stencel”>
+<IMG SRC="Giphy.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 4 Stencel”>       
+
+</FIELDSET>
+
+<FIELDSET>
+
+      
+
+<h1> Pomyłka </h1>
+
+      
+
+<LEGEND> Żart o babie </LEGEND>
+
+
+Żona prosiła mnie, żebym jej przyniósł szminkę. Przez pomyłkę podałem jej klej w sztyfcie. Chyba ciągle jest obrażona, bo nadal się nie odzywa...<br>      
+<IMG SRC="asian.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 5 Stencel”>
+<IMG SRC="asian.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 6 Stencel”>
+</FIELDSET>
+       
+
+<h1> Poniżej są trzy wyliczenia z różnymi znakami wyliczenia </h1>
+       
+
+<h2> Najważniejsze elementy komputera </h2>
+     
+  
+<UL>
             
-             <LI> Płyta główna
+             
+
+<LI> Płyta główna
                   
-                   <LI> Procesor
+                  
+ 
+<LI> Procesor
                        
-                         <LI> Karta Graficzna
+                         
+
+<LI> Karta Graficzna
                              
-                               </UL>
-                       
-                         <h2> Systemy komputerowe </h2>
-                       
-                         <UL TYPE=circle>
                               
-                               <LI> Windows
+ 
+</UL>
+                       
+                        
+ 
+<h2> Systemy komputerowe </h2>
+                       
+                         
+
+<UL TYPE=circle>
+                              
+                              
+
+ <LI> Windows
                                     
-                                     <LI> Linux
+                                    
+
+ <LI> Linux
                                          
-                                          <LI> MacOs
+                                         
+
+ <LI> MacOs
                                               
-                                                </UL> 
                                                
-                                          <h2> Akcesoria komputerowe </h2>
+
+ </UL> 
                                                
-                                           <UL TYPE=square>
+                                         
+ 
+<h2> Akcesoria komputerowe </h2>
+                                               
+                                           
+
+<UL TYPE=square>
                                                     
-                                                 <LI> Myszka
+                                                
+ 
+<LI> Myszka
                                                            
-                                                       <LI> Klawiatura
+                                                       
+<LI> Klawiatura
                                                               
                                                              <LI> Słuchawki
                                                                    
-                                                                   </UL>
+                                                                  
+ </UL>
                                                             
                                                              <h1> Poniżej są trzy numerowania z różnymi znakami numerowania </h1>
                                                             
-                                                            <h2> Systemy liczbowe </h2>
+                                                            
+<h2> Systemy liczbowe </h2>
                                                             
                                                              <OL TYPE=1 START=1>
                                                                   
@@ -146,9 +274,7 @@ Na to baba: <br>
                                                                                
                                                                                <LI> Szesnastkowy 
                                                                                            
-                                                                                    
-                                                                               
-                                                                               <h2> Firmy produkujące podzespoły </h2>
+                                                            <h2> Firmy produkujące podzespoły </h2>
                                                                                
                                                                                <OL TYPE=a START=2>
                                                                                      
@@ -162,9 +288,10 @@ Na to baba: <br>
                                                                                                 
                                                                                                  <h2> Przeglądarki </h2>
                                                                                                 
-                                                                                                 <OL TYPE=3 START=2>
+                                                                                                 
+<OL TYPE=3 START=2>
                                                                                                       
-                                                                                                       <LI> Google Chrome
+                                                                                            <LI> Google Chrome
                                                                                                             
                                                                                                              <LI> Firefox
                                                                                                                   
@@ -174,46 +301,71 @@ Na to baba: <br>
 
                                                                                                                               <LI> <h1> Urządzenia Wewnętrzne komputera </h1>
 
-      <OL type=A> 
+      
+<OL type=A> 
 
-      <LI> Płyta główna
+      
+<LI> Płyta główna
 
-      <LI> Mikroprocesor
+     
+ <LI> Mikroprocesor
 
-      <LI> Karty rozszerzeń
+      
+<LI> Karty rozszerzeń
 
-      </OL>
+      
+</OL>
 
-      <LI> Urządzenia zewnętrzne komputera
+      
+<LI> Urządzenia zewnętrzne komputera
 
-      <OL type=A> 
+      
+<OL type=A> 
 
-      <LI> Monitor
+     
+ <LI> Monitor
 
-      <OL type=a>
+    
+  <OL type=a>
 
-      <LI> z lampą kineskopową
+      
+<LI> z lampą kineskopową
 
-      <LI> LCD
+      
+<LI> LCD
 
-      </OL>
+     
+ </OL>
 
-      <LI> drukarka
+      
+<LI> drukarka
 
-      <OL type=a>
+      
+<OL type=a>
 
-      <LI> igłowa
+      
+<LI> igłowa
 
-      <LI> laserowa
+      
+<LI> laserowa
 
-      <LI> atramentowe
+    
+  <LI> atramentowe
 
-      </OL>
+      
+</OL>
 
-      </OL>
+      
+</OL>
 
-      </OL>
+      
+</OL>
        
 
-       </body> 
+       
+<A HREF="#poczatek tekstu"> kliknij aby skoczyć do początku tekstu</A> <br>
+<A HREF="#srodek tekstu"> kliknij aby skoczyć do środka tekstu</A> <br>
+<A NAME="koniec tekstu"></A>  
+</body> 
+
 </html>
