@@ -149,9 +149,9 @@ szczęście </font> </p> <br>
 - Początkujący uważa, że 1KB to 1000B, a doświadczony jest pewnien, że 1km to 1024m.<br>
 
       
-<IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 1 Stencel”>
+<IMG SRC="Smiling Leo Perfect GIF.gif" align=right border=25 width=100 height=100 alt=„grafika 1 Stencel”>
 
-      <IMG SRC="Smiling Leo Perfect GIF.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 2 Stencel”>
+      <IMG SRC="Smiling Leo Perfect GIF.gif" align=left border=25 width=100 height=100 alt=„grafika 2 Stencel”>
  
       </FIELDSET> 
 
