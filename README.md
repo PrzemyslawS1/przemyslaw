@@ -179,9 +179,9 @@ Pacjent na fotelu:<br>
 
   <br>     
 
-       <IMG SRC="Giphy.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 3 Stencel”>
+       <IMG SRC="giphy.gif" ALIGN=left BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 3 Stencel”>
 
-      <IMG SRC="Giphy.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 4 Stencel”>       
+      <IMG SRC="giphy.gif" ALIGN=right BORDER=25 WIDTH=100 HEIGHT=100 ALT=„grafika 4 Stencel”>       
 
 </FIELDSET>
 
