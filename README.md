@@ -375,7 +375,7 @@ Pacjent na fotelu:<br>
       <A HREF="tabela_Stencel.html"> tutaj jest link do tabeli </A> <br>
 <A NAME="koniec tekstu"></A>  
 <br>
-   <img src="bledy.jpg" ALIGN=center BORDER=0 WIDTH=1000 HEIGHT=1000> 
+   <img src="bledy.jpg" ALIGN=middle BORDER=0 WIDTH=1000 HEIGHT=1000> 
       </body> 
 
 </html>
