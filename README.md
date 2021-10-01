@@ -18,6 +18,7 @@
        <A HREF="plik_Stencel.html"> tutaj jest link do pliku </A> <br>
        <A HREF="poczta_Stencel.html"> tutaj jest link do poczty </A> <br>
        <A HREF="tabela_Stencel.html"> tutaj jest link do tabeli </A> <br>
+       <A HREF="walidator_Stencel.html"> tutaj jest link do walidatora </A> <br>
 <title> fajna stronka </title>
 
  
