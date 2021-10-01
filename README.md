@@ -52,27 +52,21 @@
 
 <body bgcolor="gray">
       
-
  
 <p> <font color="red" size="7" face="Arial"> Przemysław </font> </p> <br>
        
-
  
 <p> <font color="red" size="6" face="Arial"> Przemysław </font> </p> <br>
        
-
  
 <p> <font color="red" size="5" face="Arial"> Przemysław </font> </p> <br>
         
 
-
 <p> <font color="red" size="4" face="Arial"> Przemysław </font> </p> <br>
        
- 
 
 <p> <font color="red" size="3" face="Arial"> Przemysław </font> </p> <br>
       
-
  
 <p> <font color="red" size="2" face="Arial"> Przemysław </font> </p> <br>
       
