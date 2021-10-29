@@ -1,12 +1,71 @@
-﻿<!DOCTYPE html> 
+<DOCTYPE! html>
 <html lang="pl-PL"> 
 <html>     
  <head>             
  <meta charset="utf-8">            
   <title>  formularz     </title>     
  </head>    
- <body>     
-tutaj będzie formularz <br>
- <A HREF="index.html"> tutaj jest link do indexu </A>
+ <body bgcolor="silver">   
+ <center>
+ <h1> Formularz </h1>
+ <form>
+ <TABLE BORDER=0> 
+<TD> Imię &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <input type="text"> <br>                                                     
+Nazwisko &nbsp &nbsp <input type="text"> <br>
+PESEL &nbsp &nbsp &nbsp &nbsp  <input type="text"> <br>
+<br> 
+<br>       
+Czy masz powyżej 18 lat? <br>
+<input type="radio" name="odp" value="TAK"> TAK <br>
+<input type="radio" name="odp" value="NIE"> NIE <br>
+<br>
+<br>
+W jakiej częśći Trójmiasta mieszkasz? <br>
+<form action="">
+<select name="Miasta">
+<option value="Gdańsk">Gdańsk</option>
+<option value="Gdynia">Gdynia</option>
+<option value="Sopot">Sopot</option>
+</select>
+<br>
+<br>
+<br>
+Jakie są twoje zainteresowania? <br>
+<input type="checkbox" name="zainteresowanie" value="Sport">Sport<br>
+<input type="checkbox" name="zainteresowanie" value="Muzyka">Muzyka<br>
+<input type="checkbox" name="zainteresowanie" value="Taniec">Taniec<br>
+<input type="checkbox" name="zainteresowanie" value="Śpiew">Śpiew<br>
+<input type="checkbox" name="zainteresowanie" value="Inne">Inne<br>
+<textarea rows="15" cols="30">
+</textarea> 
+</TD>
+<TD>Ulubiony gatunek muzyczny <br>
+<input type="checkbox" name="Muzyka" value="Hip-HopP">Hip-Hop <br>
+<input type="checkbox" name="Muzyka" value="Pop">Pop <br>
+<input type="checkbox" name="Muzyka" value="Blue">Blues <br>
+<input type="checkbox" name="Muzyka" value="Reggae">Reggae <br>
+<input type="checkbox" name="Muzyka" value="Inny">Inny <br>
+<input type="text"> <br>
+<br>
+<br>
+Hasło <br>
+<input type="password" name="haslo"> <br>
+<br>
+<br>
+Powrót do Strony głównej <br>
+<A HREF="index.html"> <img src="powrot.png" border="1"> </A> <br>
+<br>
+<br>
+Facebook <br>
+<A HREF="https://pl-pl.facebook.com/zsegda/"> <img src="fbprzejscie.png" border="1" width="130" height="130"> </A>
+<br>
+<br>
+<br>
+<button type="reset">RESET</button> <br>
+<button type="submit">PRZEŚLIJ</button> <br>
+</TD>
+  </TABLE> 
+  </form>
+  </center>
  </body>   
 </html>
